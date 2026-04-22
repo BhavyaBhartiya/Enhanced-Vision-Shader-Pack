@@ -1,6 +1,6 @@
-# Enhanced View
+# Enhanced Vision
 
-[![Modrinth](https://img.shields.io/modrinth/dt/retroview?color=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/shader/enhanced-vision)
+[![Modrinth](https://img.shields.io/modrinth/dt/enhanced-vision?color=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/shader/enhanced-vision)
 
 ## Features:
  1. It shows outlines of mobs and walls around the centre screen, with outline brightness increasing as darkness increases.

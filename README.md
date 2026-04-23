@@ -1,6 +1,6 @@
 # Enhanced Vision
 
-[![Modrinth](https://img.shields.io/modrinth/dt/enhanced-vision?color=00AF5C&label=downloads&logo=modrinth)](https://modrinth.com/shader/enhanced-vision)
+[![Modrinth](https://img.shields.io/modrinth/dt/enhanced-vision?color=00AF5C&label=downloads&logo=modrinth)](https://https://modrinth.com/shader/enhanced-vision)
 
 ![image](./attachments/Blur.png)
 ![image](./attachments/Outline.png)
